@@ -135,7 +135,7 @@ options:
 - [Safe Infrastructure](https://github.com/safe-global/safe-infrastructure)
 - [Safe Transaction Service](https://github.com/safe-global/safe-transaction-service)
 - [Safe Smart Account](https://github.com/safe-global/safe-smart-account)
-- [Safe Smart Account deployment info and addreses](https://github.com/safe-global/safe-deployments/tree/main/src/assets)
+- [Safe Smart Account deployment info and addresses](https://github.com/safe-global/safe-deployments/tree/main/src/assets)
 
 ## Setting up for developing
 
