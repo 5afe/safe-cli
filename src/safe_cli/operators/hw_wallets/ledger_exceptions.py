@@ -28,7 +28,7 @@ def raise_ledger_exception_as_hw_wallet_exception(function):
             raise HardwareWalletException(e.message)
         except BaseException as e:
             if "Error while writing" in e.args:
-                raise HardwareWalletException("Ledger error writting, restart safe-cli")
+                raise HardwareWalletException("Ledger error writing, restart safe-cli")
             raise e
 
     return wrapper
